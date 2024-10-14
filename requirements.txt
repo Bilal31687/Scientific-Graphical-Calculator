@@ -1,1 +1,8 @@
-
+pandas
+matplotlip
+numpy
+streamlit
+yfinance
+pandas-datareader
+prophet
+plotly
