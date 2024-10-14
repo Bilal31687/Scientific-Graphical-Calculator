@@ -1,4 +1,1 @@
-%%writefile requirements.txt
-streamlit
-matplotlib
-numpy
+
